@@ -1,0 +1,23 @@
+{
+  "name": "node-first-lesson-1",
+  "version": "1.0.0",
+  "description": "node js first try",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Alexandr Staryshko <s0673298964@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
